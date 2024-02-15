@@ -6,7 +6,7 @@
 
 SOC işlemleri Fortigate Firewall üzerinde yapılacaktır.
 
-SOC:
+# SOC:
 
 # [Kullanıcı Oluşturma](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/firewall_ops/Gorev1%20%20-%20Kullanci%20Olusturma.md)
 
@@ -19,14 +19,14 @@ SOC:
 # [Web Filter, Application Filter ve Policy Oluşturma](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/firewall_ops/Gorev5-6%20%20Web%20Filter%2C%20Application%20Filter%20ve%20Policy%20Olusturma.md)
 
 ---
-Pentest:
+# Pentest:
 
 Kioptrix adlı zafiyetli makinede en az bir adet zafiyet bulunmalı ve bu zafiyet sömürülmeli.
 
 # [Kioptrix Level 1 Writeup](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/kioptrix_level1/kioptrix%20level1.md)
 
 ---
-Log Analizi:
+# Log Analizi:
 
 Bu ister için LetsDefend üzerinden görevler verilmiştir.
 
