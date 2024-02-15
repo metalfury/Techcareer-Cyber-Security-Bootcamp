@@ -4,9 +4,9 @@
 
 İsterler şu şekildedir:
 
-SOC işlemleri Fortigate Firewall üzerinde yapılacaktır.
-
 # SOC:
+
+SOC işlemleri Fortigate Firewall üzerinde yapılacaktır.
 
 # [Kullanıcı Oluşturma](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/firewall_ops/Gorev1%20%20-%20Kullanci%20Olusturma.md)
 
