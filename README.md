@@ -16,7 +16,7 @@ SOC işlemleri Fortigate Firewall üzerinde yapılacaktır.
 
 # [SSL VPN ile RDP Erişimi](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/firewall_ops/Gorev4%20-%20SSL%20VPN%20ile%20RDP%20Erisimi.md)
 
-# [Web Filter, Application Filter ve Policy Oluşturma](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/firewall_ops/Gorev5-6%20%20Web%20Filter%2C%20Application%20Filter%20ve%20Policy%20Olusturma.md)
+# [Web Filter, Application Filter ve Policy Oluşturma](https://github.com/metalfury/Techcareer-Cyber-Security-Bootcamp/blob/main/firewall_ops/Gorev5-6%20-%20Web%20Filter%2C%20Application%20Filter%20ve%20Policy%20Olusturma.md)
 
 ---
 # Pentest:
